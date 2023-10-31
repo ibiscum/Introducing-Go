@@ -7,7 +7,7 @@ Scalable Programs".
 
 ## About the Book
 
-"Introducing Go" is a book authored
+["Introducing Go"](https://www.amazon.com/Introducing-Go-Reliable-Scalable-Programs/dp/1491941952) is a book authored
 by [Caleb Doxsey](https://www.amazon.com.br/stores/Caleb-Doxsey/author/B00ITYLY9A?ref=ap_rdr&store_ref=ap_rdr&isDramIntegrated=true&shoppingPortalEnabled=true),
 offering a comprehensive introduction to the Go programming language. It ranges from basic concepts to advanced topics,
 giving a rounded view of the language.
