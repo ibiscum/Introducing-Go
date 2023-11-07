@@ -15,6 +15,7 @@ func main() {
 	y := new(int)
 	one(y)
 	fmt.Println(*y) // y is 1 now
+	fmt.Println(y)  // 0xc000192088
 }
 
 func zeroWithoutPointer(x int) {

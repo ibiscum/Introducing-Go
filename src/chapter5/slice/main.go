@@ -28,7 +28,7 @@ func main() {
 
 	//Copy
 	slice3 := []int{1, 2, 3}
-	slice4 := make([]int, 2)
-	copy(slice4, slice3)
+	slice4 := make([]int, 2) //Make a slice with length 2
+	copy(slice4, slice3)     //Copy the first 2 elements of slice1 to slice2
 	fmt.Println(slice3, slice4)
 }

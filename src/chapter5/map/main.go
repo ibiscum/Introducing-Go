@@ -21,8 +21,8 @@ func main() {
 	fmt.Println(x) //map[]
 
 	x["AnotherKey"] = 5
-	if name, ok := x["AnotherKey"]; ok {
-		fmt.Println(name, ok)
+	if value, ok := x["AnotherKey"]; ok {
+		fmt.Println(value, ok) //5 true
 	}
 
 	//Short way to write a map

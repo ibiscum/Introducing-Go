@@ -16,7 +16,7 @@ func main() {
 		// nil. Thus the return value from recover reports whether the goroutine is
 		// panicking.
 		str := recover()
-		fmt.Println(str)
+		fmt.Println(str) // PANIC
 	}()
 
 	//A panic typically means something went unexpectedly wrong
