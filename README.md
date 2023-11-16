@@ -1,4 +1,4 @@
-# Go Study Repository
+# Introducing Go Study Repository
 
 This repository contains my personal studies and hands-on exercises based on the book "Introducing Go: Build Reliable,
 Scalable Programs".
